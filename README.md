@@ -36,9 +36,9 @@
 - test/test@123456
 - 浏览器演示要求：1920*1080
 
-演示地址：http://221.212.111.73:8000/
-官网地址：http://221.212.111.73:8000/cms/home
-码云地址：https://gitee.com/hitsoft1995/fusion-view （下载源码）
+- 演示地址：http://221.212.111.73:8000/
+- 官网地址：http://221.212.111.73:8000/cms/home
+- 码云地址：https://gitee.com/hitsoft1995/fusion-view （下载源码）
 
 ### 联系
 邮箱: 1874924884@qq.com
